@@ -1,0 +1,2 @@
+salom = "🤫"
+print(salom)
